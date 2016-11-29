@@ -1,0 +1,1 @@
+money.o: ../money.cpp
