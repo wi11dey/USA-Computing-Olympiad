@@ -1,0 +1,1 @@
+prefix.o: ../prefix.cpp
