@@ -1,0 +1,1 @@
+feast.o: ../feast.cpp
