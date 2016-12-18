@@ -1,0 +1,1 @@
+concom.o: ../concom.cpp
