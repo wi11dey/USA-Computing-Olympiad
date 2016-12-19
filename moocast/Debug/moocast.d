@@ -1,0 +1,1 @@
+moocast.o: ../moocast.cpp
