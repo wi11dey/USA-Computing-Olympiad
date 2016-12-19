@@ -1,0 +1,1 @@
+checklist.o: ../checklist.cpp
