@@ -1,0 +1,1 @@
+nocows.o: ../nocows.cpp
