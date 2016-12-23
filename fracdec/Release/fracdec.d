@@ -1,0 +1,1 @@
+fracdec.o: ../fracdec.cpp
