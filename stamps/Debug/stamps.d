@@ -1,0 +1,1 @@
+stamps.o: ../stamps.cpp
