@@ -1,0 +1,1 @@
+inflate.o: ../inflate.cpp
