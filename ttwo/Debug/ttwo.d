@@ -1,0 +1,1 @@
+ttwo.o: ../ttwo.cpp
