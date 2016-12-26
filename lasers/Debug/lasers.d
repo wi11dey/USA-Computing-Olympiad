@@ -1,0 +1,1 @@
+lasers.o: ../lasers.cpp
