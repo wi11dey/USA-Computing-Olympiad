@@ -1,0 +1,1 @@
+bphoto.o: ../bphoto.cpp
